@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFact", "SuperFact\SuperFact.csproj", "{DDF26845-1941-422A-BCC1-00C791B93718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMath", "SuperMath\SuperMath.csproj", "{7C2666AC-0FE5-4BE6-B44A-53B2944D97FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMath", "TestMath\TestMath.csproj", "{D6FE7B7D-D08A-4925-8396-49698DDF1651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF26845-1941-422A-BCC1-00C791B93718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF26845-1941-422A-BCC1-00C791B93718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF26845-1941-422A-BCC1-00C791B93718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF26845-1941-422A-BCC1-00C791B93718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2666AC-0FE5-4BE6-B44A-53B2944D97FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2666AC-0FE5-4BE6-B44A-53B2944D97FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2666AC-0FE5-4BE6-B44A-53B2944D97FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2666AC-0FE5-4BE6-B44A-53B2944D97FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FE7B7D-D08A-4925-8396-49698DDF1651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FE7B7D-D08A-4925-8396-49698DDF1651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FE7B7D-D08A-4925-8396-49698DDF1651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FE7B7D-D08A-4925-8396-49698DDF1651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
